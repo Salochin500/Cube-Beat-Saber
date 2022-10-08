@@ -1,0 +1,1 @@
+RightController.SecondaryDown = Main.obj = Main.obj.transform.localScale = new Vector3(0.04f, 1f, 0.19)
